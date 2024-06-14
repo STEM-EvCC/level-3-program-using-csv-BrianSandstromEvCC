@@ -6,6 +6,4 @@ Brian Sandstrom, June 2024, Stem 103 - Level 3 Create a Program using CSV files 
 A short Python script that analyzes a CSV file, edits data, and then makes a new CSV data file that contains the new data.
 # Description
 
-This Python script analyzes the CSV file 'security_incidents.csv' by adding an adt 'Status' column and 'Pending '
-
-edits data, and then makes a new CSV data file that contains the new data,
+This Python script analyzes the CSV file 'security_incidents.csv' by adding an additional 'Status' column and 'Pending' default value rows.\
